@@ -1,6 +1,6 @@
 # API-login-pattern
 
-<h4>Sistema de login utilizando React.js, Node.js e MySQL. O usuário pode criar uma conta com senha criptografada e também fazer login no sistema.</h4>
+<h4>Sistema de login responsivo utilizando React.js, Node.js e MySQL. O usuário pode criar uma conta com senha criptografada e também fazer login no sistema.</h4>
 
 <h5>Separei em duas componentes:<h5>
 
