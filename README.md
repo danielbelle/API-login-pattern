@@ -7,7 +7,7 @@
 ## Client:
 - Foco desta componente é no cliente, onde ele primeiramente cria seu cadastro com senha criptografada e depois pode fazer login. 
 - Caso ele não tenha cadastro, senha incorreta ou email existente na base ele emite um alerta.
-- Utilizei as dependências
+- Utilizei as Bibliotecas:
 
 <blockquote>
     "axios": "^0.27.2",<br>
@@ -22,6 +22,7 @@
 
 ## Server:
 - Foco em adicionar e validar os dados no banco MySQL
+- Utilizei as Bibliotecas:
 
 <blockquote>
     "bcrypt": "^5.0.1",<br>
