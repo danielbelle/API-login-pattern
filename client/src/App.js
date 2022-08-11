@@ -90,7 +90,6 @@ function App() {
       </Formik>
 
 
-      {/* //////////////////////////////////// */ }
       <h1>Cadastro</h1>
       <Formik 
       initialValues={{email:'', password:'', confirmPassword:''}} 

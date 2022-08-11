@@ -1,5 +1,5 @@
 .container{
-    width: 200px;
+    width: 700px;
     height: max-content;
     margin:auto;
     background-color: #ebebeb;
@@ -8,9 +8,11 @@
     border-radius: 5px;
     font-family: sans-serif;
     box-shadow: 5px 7px rgba(0, 0, 0, 0.7);
+    display: flex;
 }
 
 h1{
+    margin-left: 20px;
     margin-top: 10px;
     text-align: left;
     margin-bottom: 10px;
@@ -43,4 +45,12 @@ button{
 
 button:hover{
     cursor: pointer;
+}
+
+@media (max-width: 425px){
+    .container{
+        width: 200px;
+        display: block;
+    }
+    
 }
